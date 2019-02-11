@@ -8,7 +8,7 @@ Ce projet a pour but de nous faire créer un programme permettant de convertir d
 
 Python 3.7  
 
-markdown2 : `pip install markdown2` pour l'installer puis je l'ai importer avec "import markdown2" dans le programme
+markdown2 : `pip install markdown2` pour l'installer puis je l'ai importé avec "import markdown2" dans le programme
 
 ## Fonctionnement
  
