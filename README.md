@@ -16,5 +16,5 @@ Le programme doit etre lancé en ligne de commande (aller dans le dossier ou se 
 
 `main.py -i ./document que vous souhaitez convertir -o ./endroit ou vous voulez le convertir`  
 
-Exemple : main.py -i dossier_markdown/markdown.md -o dossier_html/index.html
+Exemple : `main.py -i dossier_markdown/markdown.md -o dossier_html/index.html`
 
